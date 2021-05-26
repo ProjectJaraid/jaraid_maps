@@ -1,6 +1,6 @@
 ---
-title: "Maps of Jarāʾid data"
-subtitle: ""
+title: "Maps of the publication history of Arabic periodicals"
+subtitle: "Based on the Project Jarāʾid data"
 author: Till Grallert
 date: 2021-05-26
 ORCID: orcid.org/0000-0002-5739-8094
