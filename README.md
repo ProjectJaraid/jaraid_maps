@@ -13,6 +13,8 @@ Before download this repository, take note that it contains more than 2000 maps 
 
 The files in this repository are organised as follows
 
+- `data/`: holding the bibliographic data set as CSV
+- `gifs/`: animated maps to show changes over time
 - `maps/region/period/`
     + `maps/`: base folder for all maps
     + `region/`: one folder for each of the currently four regions
