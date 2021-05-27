@@ -7,7 +7,7 @@ ORCID: orcid.org/0000-0002-5739-8094
 DOI: https://doi.org/10.5281/zenodo.4813257
 ---
 
-This repository holds various maps based on the bibliographic metadata provided by [Project Jarāʾid](https://github.com/projectjaraid/jaraid_source) and serialised as TEI XML (`<tei:biblStruct>`). Maps were mostly produced with R and I published a tutorial for doing on the [Open Arabic Periodical Editions project blog](https://openarabicpe.github.io/2021-04-29-mapping-with-r/).
+This repository holds various maps based on the bibliographic metadata provided by [Project Jarāʾid](https://github.com/projectjaraid/jaraid_source) and serialised as TEI XML (`<tei:biblStruct>`). Maps were mostly produced with R and I published a tutorial for doing so on the [Open Arabic Periodical Editions project blog](https://openarabicpe.github.io/2021-04-29-mapping-with-r/).
 
 Before download this repository, take note that it contains more than 2000 maps as bitmap images (PNG), each clocking in at at leat 600 KB. If you want to save bandwidth and do not shy away from running some R script on your own computer, re-generating the maps using the provided data set and R script is the better option.
 
@@ -34,4 +34,4 @@ The files in this repository are organised as follows
 
 # to do
 
-- add GIFs
+- add R script(s)
